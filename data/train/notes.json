@@ -1,0 +1,21 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "no_pedestrain"
+    },
+    {
+      "id": 1,
+      "name": "pedestrian_off_zebra"
+    },
+    {
+      "id": 2,
+      "name": "pedestrian_on_zebra"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
